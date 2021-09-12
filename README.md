@@ -43,7 +43,9 @@ Minhas Hardskills são:
 </div>
  
 
- 
+ <br>
+ <br>
+ <br>
  
 Minhas Softskills são:
 * asda
