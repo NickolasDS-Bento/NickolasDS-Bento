@@ -1,4 +1,6 @@
 ### Hi there 👋
+#Olá! Sou Nickolas Daniel dos Santos Bento,
+##tenho 26 anos e sou estudante de Analise e Desenvolvimento de Sistemas na FATEC Praia Grande
 
 <!--
 **NickolasDS-Bento/NickolasDS-Bento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +21,7 @@ Here are some ideas to get you started:
  
 
 
-#Olá! Sou Nickolas Daniel dos Santos Bento,
-##tenho 26 anos e sou estudante de Analise e Desenvolvimento de Sistemas na FATEC Praia Grande
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickolasDS-Bento)](https://github.com/anuraghazra/github-readme-stats)
 
