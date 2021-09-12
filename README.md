@@ -19,7 +19,8 @@ Here are some ideas to get you started:
  
 
 
-Olá! Sou Nickolas Daniel dos Santos Bento, tenho 26 anos e sou estudante de Analise e Desenvolvimento de Sistemas na FATEC Praia Grande
+#Olá! Sou Nickolas Daniel dos Santos Bento,
+##tenho 26 anos e sou estudante de Analise e Desenvolvimento de Sistemas na FATEC Praia Grande
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickolasDS-Bento)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -27,7 +28,7 @@ Olá! Sou Nickolas Daniel dos Santos Bento, tenho 26 anos e sou estudante de Ana
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a> -->
+</a>  -->
 
 
 <div style="display: inline_block"><br>
