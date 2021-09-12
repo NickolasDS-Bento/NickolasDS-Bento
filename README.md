@@ -52,8 +52,7 @@ Minhas Softskills são:
 * dsadaf
 * safaf
 
-<br>
-<br>
+
 # Meus Contatos!
 
 
