@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
  
 Minhas HardSkills são:
-*Conhecimentos com linguagens de marcação e programação web(Front-end): HTML5, CSS3, JavaScript Bootstrap 3, PHP.
-*Conhecimento com linguagens de programação(Back-end): Java, Java EE e C++.
-*Conhecimentos DevOps, com certificação do Estabilis Academy
-*Conhecimentos de Scrum, com certificação Scrum Study
-*Conhecimento basico com a plataforma de versionamento GIT
-*Conhecimento basico com MySQL e ORACLE DB 19c
-*Inglês Avançado, com certificado CNA
+* Conhecimentos com linguagens de marcação e programação web(Front-end): HTML5, CSS3, JavaScript Bootstrap 3, PHP.
+* Conhecimento com linguagens de programação(Back-end): Java, Java EE e C++.
+* Conhecimentos DevOps, com certificação do Estabilis Academy
+* Conhecimentos de Scrum, com certificação Scrum Study
+* Conhecimento basico com a plataforma de versionamento GIT
+* Conhecimento basico com MySQL e ORACLE DB 19c
+* Inglês Avançado, com certificado CNA
 
 
 Minhas Softskills são:
