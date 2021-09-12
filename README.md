@@ -42,12 +42,12 @@ Minhas Hardskills são:
   <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
  
-
+<div style="display: inline_block"><br>
 Minhas Softskills são:
 * asda
 * dsadaf
 * safaf
-
+</div>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickolasDS-Bento)](https://github.com/anuraghazra/github-readme-stats)
