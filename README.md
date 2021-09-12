@@ -49,6 +49,10 @@ Minhas Softskills são:
 * safaf
 </div>
 
+# Meus Contatos!
+
+https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickolasDS-Bento)](https://github.com/anuraghazra/github-readme-stats)
 
