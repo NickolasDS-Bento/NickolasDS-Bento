@@ -21,8 +21,6 @@ Modificando
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickolasDS-Bento)](https://github.com/anuraghazra/github-readme-stats)
 
-<i class="devicon-git-plain-wordmark">Git</i>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">  
 
 
