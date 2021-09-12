@@ -1,4 +1,3 @@
-### Hi there 👋
 
 #Olá! Sou Nickolas Daniel dos Santos Bento
 
