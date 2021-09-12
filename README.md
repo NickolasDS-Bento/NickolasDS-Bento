@@ -1,7 +1,7 @@
 
-#Olá! Sou Nickolas Daniel dos Santos Bento
+# Olá! Sou Nickolas Daniel dos Santos Bento
 
-##tenho 26 anos e sou estudante de Analise e Desenvolvimento de Sistemas na FATEC Praia Grande
+## tenho 26 anos e sou estudante de Analise e Desenvolvimento de Sistemas na FATEC Praia Grande
 
 <!--
 **NickolasDS-Bento/NickolasDS-Bento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
