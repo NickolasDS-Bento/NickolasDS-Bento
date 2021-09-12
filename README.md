@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<html>
-<head>
+
+<div>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> 
-</head>
-<body>
+</div>
+
 Olá! Sou Nickolas Daniel dos Santos Bento, tenho 26 anos e sou estudante de Analise e Desenvolvimento de Sistemas na FATEC Praia Grande
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickolasDS-Bento)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,8 +33,7 @@ Olá! Sou Nickolas Daniel dos Santos Bento, tenho 26 anos e sou estudante de Ana
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
-</body>
-</html>
+
 
 
 
