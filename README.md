@@ -42,7 +42,8 @@ Minhas Hardskills são:
   <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
  
-<div><br>
+<div>
+<br>
 Minhas Softskills são:
 * asda
 * dsadaf
@@ -51,7 +52,11 @@ Minhas Softskills são:
 
 # Meus Contatos!
 
-https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+<a href="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  nickolas_daniel@hotmail.com
+</a>  -->
+
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickolasDS-Bento)](https://github.com/anuraghazra/github-readme-stats)
