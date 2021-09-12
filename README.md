@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
  
-Minhas HardSkills são:
+Minhas Hardskills são:
 * Conhecimentos com linguagens de marcação e programação web(Front-end): HTML5, CSS3, JavaScript Bootstrap 3, PHP.
 * Conhecimento com linguagens de programação(Back-end): Java, Java EE e C++.
 * Conhecimentos DevOps, com certificação do Estabilis Academy
