@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Modificando   
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickolasDS-Bento)](https://github.com/anuraghazra/github-readme-stats)
+
