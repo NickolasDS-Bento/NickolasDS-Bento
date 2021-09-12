@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <html>
-<head><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"></head>
+<head>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"></head>
 <body>
 Olá! Sou Nickolas Daniel dos Santos Bento, tenho 26 anos e sou estudante de Analise e Desenvolvimento de Sistemas na FATEC Praia Grande
 
