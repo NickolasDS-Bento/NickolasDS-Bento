@@ -42,13 +42,14 @@ Minhas Hardskills são:
   <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
  
-<div>
-<br>
+
+ 
+ 
 Minhas Softskills são:
 * asda
 * dsadaf
 * safaf
-</div>
+
 
 # Meus Contatos!
 
