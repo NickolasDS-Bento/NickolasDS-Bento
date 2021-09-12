@@ -48,9 +48,10 @@ Minhas Hardskills são:
  <br>
  
 Minhas Softskills são:
-* asda
-* dsadaf
-* safaf
+* Integro;
+* Trabalho bem em equipe;
+* Sempre em busca de novos aprendizados;
+* Sempre em Busca de excelencia.
 <br>
 
 
