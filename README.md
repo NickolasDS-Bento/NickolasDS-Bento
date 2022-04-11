@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
  
 Minhas Hardskills são:
-* Conhecimentos com linguagens de marcação e programação web(Front-end): HTML5, CSS3, JavaScript Bootstrap 3, PHP.
+* Conhecimentos com linguagens de marcação e programação web(Front-end): HTML5, CSS3, JavaScript Bootstrap 3
 * Conhecimento com linguagens de programação(Back-end): Java, Java EE e C++.
 * Conhecimentos DevOps, com certificação do Estabilis Academy
 * Conhecimentos de Scrum, com certificação Scrum Study
@@ -38,7 +38,7 @@ Minhas Hardskills são:
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <!--<img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> -->
   <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
  
